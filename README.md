@@ -1,0 +1,1 @@
+[PATİKA](https://patika.dev/)
