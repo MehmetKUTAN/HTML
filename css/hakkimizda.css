@@ -1,0 +1,26 @@
+h1,
+h2,
+h3 {
+    color: greenyellow;
+    font-size: 25px;
+}
+
+body {
+    background-color: aqua;
+}
+
+.text_red {
+    color: red;
+}
+
+.font_size_small {
+    font-size: small;
+}
+
+.font_size_medium {
+    font-size: medium;
+}
+
+.font_size_large {
+    font-size: large
+}
